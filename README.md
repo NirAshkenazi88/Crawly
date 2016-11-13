@@ -10,6 +10,7 @@ Simple Web Application Screenshot Script
 
 #Usage
 > `python crawly.py -ip "192.168.1.0" -port 80,443 -path "/robots.txt"`
+
 > `python crawly.py -port 80,443 -file "/root/Desktop/host_file.txt" -path "/robots.txt"`
 
 #Updates
