@@ -1,4 +1,4 @@
-# Crawly
+# Crawly v1.0
 Simple Web Application Screenshot Script
 
 #System Requirement
