@@ -5,8 +5,9 @@ Simple Web Application Screenshot Script
 > This Script build for only Linux distributions, maybe in the future will be a Windows Version.
 
 #Install Dependencies
-> sudo ./depen.sh
-> python crawly.py -h 
+
+> pip install requests argparse multiprocessing selenium
+> Install PhantomJS https://gist.github.com/julionc/7476620
 
 #Usage
 
