@@ -7,6 +7,7 @@ Simple Web Application Screenshot Script
 #Install Dependencies
 
 > pip install requests argparse multiprocessing selenium
+
 > Install PhantomJS https://gist.github.com/julionc/7476620
 
 #Usage
